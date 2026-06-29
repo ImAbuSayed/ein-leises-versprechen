@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-leises-versprechen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ein leises Versprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-leises-versprechen/) |
+| **Get License** | [Commercial Licensing for Ein leises Versprechen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-leises-versprechen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir cruisen durchs Neonlicht, Engine flüstert dein'n Namen
+> Ein leises Versprechen, dein Blick sprengt all meine Rahmen
+> Lass die Skyline verschwinden, im Rückspiegel nur noch wir zwei
+> Diese Nacht ist für uns, Baby, fühl dich unendlich frei
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `34ccdab9e8c570eb170aa973b94a745b9a3ac7326b06ac8372446fb202b9c1f7` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
